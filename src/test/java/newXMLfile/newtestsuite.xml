@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="MySuite">
+    <test name="Home Steps">
+        <classes>
+            <class name="newSteps.T01_HomeSteps"/>
+            <class name="newSteps.T02_SecondPageSteps"/>
+        </classes>
+    </test>
+</suite>
